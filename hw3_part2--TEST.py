@@ -26,7 +26,7 @@ def test(fun_num, input, output):
 
     if passed == 0:
         print("\n!!!!!!!!!!!!!!!!!!!!!!!!!!!")
-        print("Test Num. " + str(cnt) + "Failed")
+        print("Test Num." + str(cnt) + " Failed")
         print("Input: " + input)
         print("Excepted Output: " + str(output))
         print("Your Output: " + str(user_output))
