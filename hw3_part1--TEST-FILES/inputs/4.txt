@@ -7,4 +7,5 @@ ship order pop, 2 -- rock, -100
 change amount rap 100
 ship order rock, 5 -- rock, 2
 change amount rock 100
+change amount rock 0
 ship order rock, 5
